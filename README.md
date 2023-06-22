@@ -9,7 +9,7 @@ Conteúdos abordados:
 - Variáveis;
 - Animações simples.
 
-![trabalhos](https://github.com/flaviarafaelle/trabalhos/assets/101022170/e322a8fd-62eb-4e8c-b39f-d6aeb3236289)
+![Latest_Work_1440](https://github.com/flaviarafaelle/stage03-trabalhos/assets/101022170/b5147579-75e2-469d-bf0b-eee11f389c96)
 
 ## 👩‍💻 Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
